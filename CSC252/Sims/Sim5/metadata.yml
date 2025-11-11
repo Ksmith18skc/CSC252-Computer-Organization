@@ -1,0 +1,12 @@
+---
+:id: 245989179
+:submitters:
+- :name: Kory M Smith
+  :email: korysmith@arizona.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-04-11 23:24:57.215188000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-04-11 16:24:57.215188000 Z
+:status: processed
+:score: 100.0
