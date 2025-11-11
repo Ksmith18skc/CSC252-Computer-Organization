@@ -121,13 +121,6 @@ The **Sims** directory contains five simulation projects implementing digital lo
 - **C**: CPU simulation and implementation (Sim4-5)
 - **Tools**: MIPS assembler/simulator, Java compiler
 
-## 📊 Performance
-
-Based on metadata files:
-- **Sim4 Score**: 95.0/100
-- **sim2 Score**: 95.0/100
-- Submissions completed throughout Spring 2024
-
 ## 👤 Author
 
 **Kory M Smith**  
